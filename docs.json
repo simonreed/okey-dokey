@@ -1,0 +1,120 @@
+{
+  "$schema": "https://minimaldocs.com/docs.json",
+  "theme": "club",
+  "name": "Riverside FC",
+  "colors": {
+    "primary": "#1E3A5F",
+    "light": "#2D5A8A",
+    "dark": "#142840"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Welcome",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Teams",
+        "groups": [
+          {
+            "group": "Senior Teams",
+            "pages": [
+              "teams/first-team",
+              "teams/reserves"
+            ]
+          },
+          {
+            "group": "Youth Development",
+            "pages": [
+              "teams/under-18s",
+              "teams/under-16s",
+              "teams/academy"
+            ]
+          },
+          {
+            "group": "Women's Football",
+            "pages": [
+              "teams/womens-first-team",
+              "teams/womens-reserves"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "News",
+        "groups": [
+          {
+            "group": "Latest News",
+            "pages": [
+              "news/index",
+              "news/match-reports",
+              "news/transfers",
+              "news/community"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Club",
+        "groups": [
+          {
+            "group": "About Us",
+            "pages": [
+              "club/about",
+              "club/history",
+              "club/stadium",
+              "club/contact"
+            ]
+          },
+          {
+            "group": "Policies & Documents",
+            "pages": [
+              "club/policies/safeguarding",
+              "club/policies/code-of-conduct",
+              "club/policies/equality",
+              "club/policies/privacy"
+            ]
+          },
+          {
+            "group": "Documents",
+            "pages": [
+              "club/documents/constitution",
+              "club/documents/agm-minutes",
+              "club/documents/financial-reports"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Fixtures",
+        "href": "/fixtures"
+      },
+      {
+        "label": "Tickets",
+        "href": "/tickets"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Join the Club",
+      "href": "/membership"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/riversidefc",
+      "youtube": "https://youtube.com/@riversidefc"
+    }
+  }
+}

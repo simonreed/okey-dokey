@@ -3,8 +3,8 @@
   "theme": "club",
   "name": "okey-dokey",
   "colors": {
-    "primary": "#1E3A5F",
-    "light": "#2D5A8A",
+    "primary": "#ff2600",
+    "light": "#2d5a8a",
     "dark": "#142840"
   },
   "navigation": {

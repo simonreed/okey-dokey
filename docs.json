@@ -1,6 +1,6 @@
 {
   "$schema": "https://minimaldocs.com/docs.json",
-  "theme": "club",
+  "theme": "default",
   "name": "okey-dokey",
   "colors": {
     "primary": "#ff2600",

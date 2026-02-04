@@ -3,9 +3,9 @@
   "theme": "club",
   "name": "okey-dokey",
   "colors": {
-    "primary": "#ff2600",
-    "light": "#ff7d66",
-    "dark": "#991700"
+    "primary": "#96d35f",
+    "light": "#cbe9af",
+    "dark": "#63a02c"
   },
   "navigation": {
     "tabs": [

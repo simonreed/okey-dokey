@@ -4,8 +4,8 @@
   "name": "okey-dokey",
   "colors": {
     "primary": "#ff2600",
-    "light": "#2d5a8a",
-    "dark": "#142840"
+    "light": "#ff7d66",
+    "dark": "#991700"
   },
   "navigation": {
     "tabs": [
